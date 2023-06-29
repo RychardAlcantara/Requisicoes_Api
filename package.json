@@ -1,0 +1,14 @@
+{
+  "name": "requisicoes_api",
+  "version": "1.0.0",
+  "description": "Projeto feito durante o curso de Java-script: criando requisicoes da Alura.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
